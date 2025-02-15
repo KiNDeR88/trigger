@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trigger/static/css/main.0c296eb0.css",
+    "main.js": "/trigger/static/js/main.579b62cc.js",
+    "index.html": "/trigger/index.html",
+    "main.0c296eb0.css.map": "/trigger/static/css/main.0c296eb0.css.map",
+    "main.579b62cc.js.map": "/trigger/static/js/main.579b62cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c296eb0.css",
+    "static/js/main.579b62cc.js"
+  ]
+}
